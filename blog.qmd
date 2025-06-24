@@ -1,22 +1,182 @@
 ---
-title: "Tidbits"
-subtitle: "Stuff I tried to google but ended up figuring out"
-listing: 
-  contents: posts
-  fields: [image, date, title, subtitle, categories, author, reading-time]
-  sort: "date desc"
-  categories: cloud
-  sort-ui: true
-  filter-ui: true
-  feed: true
-editor: source
+title: "Blogs"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-The motivation for these posts often comes from trying to google a question or
-topic related to coding, only to find little-to-no answer. Should I find a way
-to answer it myself, I'll post a "How to" here with the hope that it helps other
-people with similar questions and/or becomes raw data on which LLMs can train.
-🐢
+## New 10
 
-::: gap-10
-:::
+  - 连玉君, 2025, [如何借助 AI 工具来伴读一篇理论类的论文？](https://www.lianxh.cn/details/1571.html).  2025/04/28
+  - 连玉君, 2025, [老连买电脑：ChatGPT，DeepSeek，豆包来帮忙](https://www.lianxh.cn/details/1561.html).  2025/04/05
+  - 连玉君, 2025, [异质性分析：如何避免“事后看碟下菜”？](https://www.lianxh.cn/details/1556.html).  2025/03/30
+  - 连玉君, 2025, [异质性分析：揭示理论成立的边界条件](https://www.lianxh.cn/details/1555.html).  2025/03/29
+  - 连玉君, 2025, [Stata：如何永久修改我的PERSONAL文件夹的位置？](https://www.lianxh.cn/details/1538.html).  2025/01/21
+  - 连玉君, 2025, [Stata：回归分析中的权重问题-aweight-fweight](https://www.lianxh.cn/details/1533.html).  2025/01/06
+  - 连玉君, 2024, [Stata绘图：如何调整图形的纵横比？](https://www.lianxh.cn/details/1528.html).  2024/12/26
+  - 颜国强,连玉君, 2024, [tidyplots：跟 ggplot2 说再见吧！](https://www.lianxh.cn/details/1513.html).  2024/12/06
+  - 连玉君, 2024, [ttestplus：组间均值差异统计和检验](https://www.lianxh.cn/details/1508.html).  2024/12/02
+  - 连玉君, 2024, [从 Stata 到 R：如何使用 tag() 和 if_else() 标记分组中的首个观测](https://www.lianxh.cn/details/1495.html).  2024/11/06
+
+
+## Hot 10
+
+  - 连玉君, 2020, [Stata: 如何检验分组回归后的组间系数差异？](https://www.lianxh.cn/details/19.html), 连享会 No.19.  Hits: 107757
+  - 王若溪, 连玉君, 2020, [Stata结果输出：pwcorr_a输出相关系数矩阵](https://www.lianxh.cn/details/348.html), 连享会 No.348.  Hits: 103441
+  - 游万海, 连玉君, 2020, [Stata: 面板数据模型一文读懂](https://www.lianxh.cn/details/122.html), 连享会 No.122.  Hits: 98131
+  - 杨柳, 连玉君, 2020, [Stata: 工具变量法 (IV) 也不难呀！](https://www.lianxh.cn/details/31.html), 连享会 No.31.  Hits: 72251
+  - 杨鑫, 秦利宾, 连玉君, 2020, [Stata：聚类调整后的标准误-Cluster-SE](https://www.lianxh.cn/details/155.html), 连享会 No.155.  Hits: 46120
+  - 连玉君, 杨柳, 2020, [Stata：Logit模型一文读懂](https://www.lianxh.cn/details/170.html), 连享会 No.170.  Hits: 43315
+  - 连玉君, 杨柳, 2020, [Stata: 边际效应分析](https://www.lianxh.cn/details/64.html), 连享会 No.64.  Hits: 41968
+  - 周洋, 连玉君, 李森林, 2020, [平方项 = 倒U型 ？](https://www.lianxh.cn/details/70.html), 连享会 No.70.  Hits: 38528
+  - 连玉君, 张静瑶, 2020, [加入控制变量后结果悲催了！](https://www.lianxh.cn/details/135.html), 连享会 No.135.  Hits: 35510
+  - 陈贤孟, 2020, [正确姿势：回归系数的解释与评估](https://www.lianxh.cn/details/277.html), 连享会 No.277.  Hits: 33325
+
+
+## All 
+
+  - [如何借助 AI 工具来伴读一篇理论类的论文？](https://www.lianxh.cn/details/1571.html)  2025/04/28
+  - [老连买电脑：ChatGPT，DeepSeek，豆包来帮忙](https://www.lianxh.cn/details/1561.html)  2025/04/05
+  - [异质性分析：如何避免“事后看碟下菜”？](https://www.lianxh.cn/details/1556.html)  2025/03/30
+  - [异质性分析：揭示理论成立的边界条件](https://www.lianxh.cn/details/1555.html)  2025/03/29
+  - [Stata：如何永久修改我的PERSONAL文件夹的位置？](https://www.lianxh.cn/details/1538.html)  2025/01/21
+  - [Stata：回归分析中的权重问题-aweight-fweight](https://www.lianxh.cn/details/1533.html)  2025/01/06
+  - [Stata绘图：如何调整图形的纵横比？](https://www.lianxh.cn/details/1528.html)  2024/12/26
+  - [tidyplots：跟 ggplot2 说再见吧！](https://www.lianxh.cn/details/1513.html)  2024/12/06
+  - [ttestplus：组间均值差异统计和检验](https://www.lianxh.cn/details/1508.html)  2024/12/02
+  - [从 Stata 到 R：如何使用 tag() 和 if_else() 标记分组中的首个观测](https://www.lianxh.cn/details/1495.html)  2024/11/06
+  - [Stata2R：那些 R 中的 _N 和 _n 替代技巧](https://www.lianxh.cn/details/1494.html)  2024/11/05
+  - [R数据处理-多条件判断：ifelse() 和 case_when()](https://www.lianxh.cn/details/1493.html)  2024/11/04
+  - [VScode插件：安装、配置和使用](https://www.lianxh.cn/details/1490.html)  2024/11/01
+  - [从基础到 AI 助手：Python 用户最爱的 VScode 插件清单](https://www.lianxh.cn/details/1489.html)  2024/10/31
+  - [TeXStudio：无法正常显示中文字符怎么办？](https://www.lianxh.cn/details/1488.html)  2024/10/30
+  - [RStudio常用的快捷键一览](https://www.lianxh.cn/details/1481.html)  2024/10/23
+  - [递归算法：快速排序的 R、Stata 和 Python 实现](https://www.lianxh.cn/details/1480.html)  2024/10/15
+  - [R语言如何实现Stata中的local功能？](https://www.lianxh.cn/details/1478.html)  2024/10/13
+  - [Markdown：连老师的Typora主题模板css文件下载](https://www.lianxh.cn/details/1426.html)  2024/07/19
+  - [执行PSM匹配后观察值会减少吗？](https://www.lianxh.cn/details/1418.html)  2024/07/03
+  - [快速查看ado源文件的两种方法](https://www.lianxh.cn/details/1396.html)  2024/06/09
+  - [借助ChatGPT4o学习排序算法：AI代码助手好酸爽！](https://www.lianxh.cn/details/1393.html)  2024/06/08
+  - [VScode：实用 Markdown 插件推荐](https://www.lianxh.cn/details/1390.html)  2024/06/04
+  - [getiref：快速获得文献的引文和PDF原文](https://www.lianxh.cn/details/1382.html)  2024/04/30
+  - [Stata结果输出：手动添加带星号的统计量](https://www.lianxh.cn/details/1365.html)  2024/04/04
+  - [antrho与Fisher转换：heckman和treareg等命令中参数含义](https://www.lianxh.cn/details/1361.html)  2024/03/31
+  - [antrho与Fisher转换：heckman和treareg等命令中参数含义](https://www.lianxh.cn/details/1358.html)  2024/03/29
+  - [Stata绘图：插图！子图！grinset](https://www.lianxh.cn/details/1356.html)  2024/03/27
+  - [多组成绩调整的简便方法：固定效应模型妙用](https://www.lianxh.cn/details/1343.html)  2024/03/10
+  - [Stata 绘图：图形中的中文和英文能否设定为不同的字体](https://www.lianxh.cn/details/1335.html)  2024/01/15
+  - [Stata编程：快速查找Stata代码片段](https://www.lianxh.cn/details/1319.html)  2023/12/11
+  - [ivreghdfe-高维固定效应IV估计：错误信息处理-817 lines skipped](https://www.lianxh.cn/details/1318.html)  2023/12/10
+  - [ivreghdfe-高维固定效应IV估计：错误信息处理-817 lines skipped](https://www.lianxh.cn/details/1299.html)  2023/11/20
+  - [字符函数ustrregexm()：文字变量匹配中的英文字母大小写问题](https://www.lianxh.cn/details/1283.html)  2023/11/02
+  - [刺猬与狐狸：Stata与R语言常用命令等价对比](https://www.lianxh.cn/details/1270.html)  2023/10/21
+  - [连玉君Stata33讲：面板数据模型简介-FE和RE有何区别？](https://www.lianxh.cn/details/1110.html)  2023/07/29
+  - [最后一周：如何修改我的毕业论文？](https://www.lianxh.cn/details/1181.html)  2023/03/20
+  - [连玉君：我与ChatGPT聊了一个月](https://www.lianxh.cn/details/899.html)  2023/03/14
+  - [Marp幻灯片模板：用Markdown快速写幻灯片](https://www.lianxh.cn/details/1059.html)  2022/11/16
+  - [Stata绘图：唯美的函数图-自定义水平附加线和竖直附加线](https://www.lianxh.cn/details/1064.html)  2022/09/23
+  - [Stata101：人手一份的入门指南](https://www.lianxh.cn/details/1065.html)  2022/09/14
+  - [LaTeX：TeXStudio编辑器快捷键大全](https://www.lianxh.cn/details/945.html)  2022/05/05
+  - [我为什么越跑越肥？交乘项系数的直观解释](https://www.lianxh.cn/details/862.html)  2022/01/25
+  - [图解Lasso系列A：Lasso的变量筛选能力](https://www.lianxh.cn/details/849.html)  2022/01/11
+  - [用VScode正则表达式转换Markdown和LaTeX链接](https://www.lianxh.cn/details/839.html)  2021/12/30
+  - [聊聊Stata中的profile文件-第二季](https://www.lianxh.cn/details/672.html)  2021/07/04
+  - [AxMath-设置字体-伪装成Word数学公式](https://www.lianxh.cn/details/668.html)  2021/06/27
+  - [Stata：投资组合有效边界](https://www.lianxh.cn/details/595.html)  2021/04/10
+  - [连玉君的链接](https://www.lianxh.cn/details/79.html)  2021/03/05
+  - [毕业季：如何修改你的毕业论文？](https://www.lianxh.cn/details/28.html)  2021/03/04
+  - [内生性：来源及处理方法-幻灯片下载](https://www.lianxh.cn/details/538.html)  2021/02/27
+  - [Stata：提问时请务必用 dataex 命令](https://www.lianxh.cn/details/82.html)  2021/02/27
+  - [Stata错误信息-stacktrace not available：安装路径中不要包含中文字符和空格](https://www.lianxh.cn/details/539.html)  2021/02/04
+  - [rddensity, lpdensity无法安装？那就手动安装](https://www.lianxh.cn/details/518.html)  2021/01/18
+  - [Stata-Mata系列 (二)：Mata与Stata的交互](https://www.lianxh.cn/details/515.html)  2021/01/12
+  - [Stata安装路径中不要包含中文字符和空格：stacktrace not available错误信息](https://www.lianxh.cn/details/511.html)  2021/01/10
+  - [Stata与LaTeX的完美结合](https://www.lianxh.cn/details/485.html)  2020/12/22
+  - [Stata：数值求解极大值及 MLE 示例](https://www.lianxh.cn/details/468.html)  2020/11/30
+  - [字符编码问题三个不可见的字符（0xEF-0xBB-0xBF，即BOM）](https://www.lianxh.cn/details/423.html)  2020/10/09
+  - [Stata：在线可视化模拟-OLS-的性质](https://www.lianxh.cn/details/384.html)  2020/10/08
+  - [Stata：因变量是类别变量时采用什么方法估计？](https://www.lianxh.cn/details/382.html)  2020/10/08
+  - [Stata：系数为何不显著？GIF演示OLS的性质.md](https://www.lianxh.cn/details/402.html)  2020/10/08
+  - [快速呈现常用分布临界值表](https://www.lianxh.cn/details/362.html)  2020/10/08
+  - [可汗学院风格电子板书攻略：Wacom+ArtRage](https://www.lianxh.cn/details/416.html)  2020/10/08
+  - [Stata：聚类调整标准误笔记](https://www.lianxh.cn/details/404.html)  2020/10/08
+  - [Stata：配对对象的均值-(俄罗斯方块移动)](https://www.lianxh.cn/details/407.html)  2020/10/08
+  - [Stata：普通年金现值系数表](https://www.lianxh.cn/details/392.html)  2020/10/08
+  - [Stata：根据当前日期返回是周几](https://www.lianxh.cn/details/397.html)  2020/10/08
+  - [Stata：文字型日期格式的转换](https://www.lianxh.cn/details/390.html)  2020/10/08
+  - [公司财务-投资组合Stata实现-Berk-Corporate-Finance-Chapter-11-Examples](https://www.lianxh.cn/details/413.html)  2020/10/08
+  - [Stata：今天你table了吗？图片版](https://www.lianxh.cn/details/386.html)  2020/10/08
+  - [Stata：dofile转PDF制作讲义方法](https://www.lianxh.cn/details/367.html)  2020/10/08
+  - [Stata绘图：制作教学演示动态图-GIF](https://www.lianxh.cn/details/351.html)  2020/10/07
+  - [Stata绘图：用-bytwoway-实现快速分组绘图](https://www.lianxh.cn/details/357.html)  2020/10/07
+  - [Stata绘图：重新定义坐标轴刻度标签](https://www.lianxh.cn/details/360.html)  2020/10/07
+  - [Stata程序：是否有类似-Python-中的-zip()-函数](https://www.lianxh.cn/details/347.html)  2020/10/07
+  - [Stata结果输出：pwcorr_a输出相关系数矩阵](https://www.lianxh.cn/details/348.html)  2020/10/07
+  - [Stata程序：切割文件路径和文件名](https://www.lianxh.cn/details/344.html)  2020/10/07
+  - [Stata程序：我的程序多久能跑完？](https://www.lianxh.cn/details/346.html)  2020/10/07
+  - [Stata绘图：怎么在Stata图形中附加水平线或竖直线？](https://www.lianxh.cn/details/356.html)  2020/10/07
+  - [Stata数据处理：物价指数-(CPI)-的导入和转换](https://www.lianxh.cn/details/323.html)  2020/10/06
+  - [Markdown：五分钟Markdown教程](https://www.lianxh.cn/details/300.html)  2020/10/06
+  - [Stata小白系列之二：数据拆分与合并](https://www.lianxh.cn/details/312.html)  2020/10/06
+  - [Stata小抄：一组图记住Stata常用命令](https://www.lianxh.cn/details/310.html)  2020/10/06
+  - [Markdown教程之LaTeX数学公式简介](https://www.lianxh.cn/details/298.html)  2020/10/06
+  - [Stata小白系列之一：调入数据](https://www.lianxh.cn/details/311.html)  2020/10/06
+  - [Stata数据处理：ftree命令-用txt文档记录文件夹结构](https://www.lianxh.cn/details/314.html)  2020/10/06
+  - [Stata新命令：ereplace-egenmore-egenmisc](https://www.lianxh.cn/details/335.html)  2020/10/06
+  - [Markdown图床：我们的图片存在哪里？](https://www.lianxh.cn/details/296.html)  2020/10/06
+  - [Stata基础：数据显示格式和四舍五入](https://www.lianxh.cn/details/309.html)  2020/10/06
+  - [Stata数据处理：分年度-行业计算销售额前四名的行业占比](https://www.lianxh.cn/details/317.html)  2020/10/06
+  - [Stata数据处理：如何提取某个变量有记录的第一年的年份](https://www.lianxh.cn/details/318.html)  2020/10/06
+  - [神器-数学公式识别工具-mathpix](https://www.lianxh.cn/details/284.html)  2020/10/02
+  - [Stata基础：一些漂亮的字符画](https://www.lianxh.cn/details/288.html)  2020/10/02
+  - [正确姿势：回归系数的解释与评估](https://www.lianxh.cn/details/277.html)  2020/09/22
+  - [连玉君Markdown笔记](https://www.lianxh.cn/details/286.html)  2020/09/21
+  - [Markdown中书写LaTeX数学公式简介](https://www.lianxh.cn/details/250.html)  2020/09/19
+  - [Stata：Logit模型一文读懂](https://www.lianxh.cn/details/170.html)  2020/09/19
+  - [Stata：图示连续变量的连续边际效应](https://www.lianxh.cn/details/189.html)  2020/09/16
+  - [Stata：图示苹果公司(APPL)历年现金股利](https://www.lianxh.cn/details/209.html)  2020/08/05
+  - [Stata：xtabond命令中的endog()选项设定问题](https://www.lianxh.cn/details/218.html)  2020/08/01
+  - [Stata: 如何快速合并 3500 个无规则命名的数据文件？](https://www.lianxh.cn/details/227.html)  2020/07/21
+  - [Stata帮助和网络资源汇总(持续更新中)](https://www.lianxh.cn/details/187.html)  2020/07/20
+  - [哇！Stata参考书和经典教材！](https://www.lianxh.cn/details/188.html)  2020/07/20
+  - [Stata15快捷键：键盘就是你的武器](https://www.lianxh.cn/details/214.html)  2020/07/20
+  - [Stata: 实时估计个股贝塔(beta)系数](https://www.lianxh.cn/details/215.html)  2020/07/20
+  - [Stata: 工具变量法 (IV) 也不难呀！](https://www.lianxh.cn/details/31.html)  2020/07/14
+  - [Stata：刀切法-去一法-Jackknife 简介](https://www.lianxh.cn/details/275.html)  2020/07/04
+  - [Stata绘图：用暂元统一改变图形中的字号](https://www.lianxh.cn/details/274.html)  2020/07/03
+  - [Stata因子变量：虚拟变量-交乘项批量处理](https://www.lianxh.cn/details/180.html)  2020/06/15
+  - [Stata：gen 和 egen 中的 sum() 函数异同](https://www.lianxh.cn/details/174.html)  2020/06/12
+  - [Stata：聚类调整后的标准误-Cluster-SE](https://www.lianxh.cn/details/155.html)  2020/06/10
+  - [Stata：因子变量全攻略](https://www.lianxh.cn/details/160.html)  2020/06/03
+  - [在 Markdown 中使用表情符号](https://www.lianxh.cn/details/172.html)  2020/05/31
+  - [Stata：reghdfe命令报错问题](https://www.lianxh.cn/details/157.html)  2020/05/20
+  - [交乘项-交叉项的中心化问题](https://www.lianxh.cn/details/137.html)  2020/05/20
+  - [Stata：聊聊 profile.do 文件](https://www.lianxh.cn/details/77.html)  2020/05/20
+  - [毕业答辩：我准备好了！](https://www.lianxh.cn/details/125.html)  2020/05/12
+  - [可重复性研究：如何保证你的研究结果可重现？](https://www.lianxh.cn/details/124.html)  2020/05/09
+  - [加入控制变量后结果悲催了！](https://www.lianxh.cn/details/135.html)  2020/04/24
+  - [平方项 = 倒U型 ？](https://www.lianxh.cn/details/70.html)  2020/03/13
+  - [Stata: 面板数据模型一文读懂](https://www.lianxh.cn/details/122.html)  2020/03/12
+  - [Stata: 边际效应分析](https://www.lianxh.cn/details/64.html)  2020/03/08
+  - [Stata黑白图形模板：中文期刊风格的纯黑白图形](https://www.lianxh.cn/details/61.html)  2020/03/08
+  - [残差是个宝：盈余管理、过度投资、超额收益怎么算？](https://www.lianxh.cn/details/103.html)  2020/03/07
+  - [Stata: 如何检验分组回归后的组间系数差异？](https://www.lianxh.cn/details/19.html)  2020/03/07
+  - [如何比较解释变量的系数相对大小？](https://www.lianxh.cn/details/86.html)  2020/03/07
+  - [Stata中文乱码转码顽疾解决方法-批量转换](https://www.lianxh.cn/details/55.html)  2020/03/04
+  - [Stata可视化：让他看懂我的结果！coefplot-arrowplot](https://www.lianxh.cn/details/45.html)  2020/02/25
+  - [一个博士生应该掌握哪些工具和武器](https://www.lianxh.cn/details/30.html)  2020/02/19
+  - [Endnote 使用说明和自定义中文期刊模板](https://www.lianxh.cn/details/29.html)  2020/02/19
+  - [gInk：一款好用的屏幕标注写画软件](https://www.lianxh.cn/details/27.html)  2020/02/19
+  - [Sai2: 一款流畅的电子板书软件](https://www.lianxh.cn/details/21.html)  2020/02/18
+  - [Stata 新命令：多断点 RDD 分析 - rdmc](https://www.lianxh.cn/details/26.html)  2020/02/18
+  - [直播电子板书：Word, PPT, PDF 手写批注很轻松](https://www.lianxh.cn/details/16.html)  2020/02/17
+  - [教师利器 - ZoomIt 4.5 屏幕缩放标注小软件](https://www.lianxh.cn/details/14.html)  2020/02/17
+  - [Stata Plus-连老师的 Stata 外部命令集 (Update)](https://www.lianxh.cn/details/15.html)  2020/02/16
+  - [协整：醉汉牵着一条狗](https://www.lianxh.cn/details/98.html)  2020/02/06
+  - [mdnice.cn——Markdown、知乎、公众号排版神器](https://www.lianxh.cn/details/83.html)  2019/12/21
+  - [两种网页转Markdown的简便方法](https://www.lianxh.cn/details/32.html)  2019/12/18
+  - [Stata：回归结果中不报告行业虚拟变量的系数](https://www.lianxh.cn/details/5.html)  2019/11/19
+  - [普林斯顿Stata教程(一) - Stata数据处理](https://www.lianxh.cn/details/152.html)  2019/11/12
+  - [Stata: gen 命令中的 group() 函数的潜在风险](https://www.lianxh.cn/details/100.html)  2019/04/08
+  - [Stata: 外部命令的搜索、安装与使用](https://www.lianxh.cn/details/1.html)  2019/03/14
+ 

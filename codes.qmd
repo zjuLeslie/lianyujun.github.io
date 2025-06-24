@@ -1,0 +1,22 @@
+---
+title: "Codes"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Many of the links below will take you to content on GitHub
+([my github](https://github.com/arlionn)).
+
+
+- `xtbalance`
+  - 吴雄, 2020, [Stata数据处理：xtbalance-非平衡面板之转换](https://www.lianxh.cn/details/316.html).
+- `bdiff`
+  - 李烨阳, 2023, [Stata：自己动手做组间系数差异检验-bootstrap-bdiff](https://www.lianxh.cn/details/1286.html).
+  - 连玉君, 2020, [Stata: 如何检验分组回归后的组间系数差异？](https://www.lianxh.cn/details/19.html).
+- `winsor2`
+  - 袁煜玲, 2021, [winsor2：离群值和异常值的缩尾处理](https://www.lianxh.cn/details/562.html).
+- `ihelp` / `wwwhelp`  
+  - 连享会, 2024, [ihelp: 快速打开Stata帮助文件PDF手册](https://www.lianxh.cn/details/1416.html).
+- `getiref`
+  - 连玉君, 2024, [getiref：快速获得文献的引文和PDF原文](https://www.lianxh.cn/details/1382.html).

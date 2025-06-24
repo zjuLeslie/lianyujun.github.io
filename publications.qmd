@@ -3,222 +3,33 @@ title: "Publications"
 editor: visual
 ---
 
-## Peer-reviewed journal articles
 
-### 2025
+### In English
 
-Altshuler DL, **Baliga VB**, Lapsansky AB, Lee P, Press ER, and Theriault JS.
-2025. [Understanding mechanisms of avian flight by integrating observations with
-tests of competing hypotheses](https://doi.org/10.1242/jeb.247992). *Journal of
-Experimental Biology.* 228, jeb247992. doi:10.1242/jeb.247992
+  - Zhou, K., Guan, Z., & **Lian, Y.** (2024). Carbon mitigation effect of emission trading product: Perspective from intra-industry carbon leakage. Energy Economics, 107966, Online. [Link](https://doi.org/10.1016/j.eneco.2024.107966) (rep), [PDF](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Lian-2024-EE_Preproof.pdf), [Google](<https://scholar.google.com/scholar?q=Carbon mitigation effect of emission trading product: Perspective from intra-industry carbon leakage>).
+  - **Lian, Y.**,  J. Wang, M. Huang. Fast or Slow: Unveiling the Speed of Market LeverageAdjustment in China, 2024, **Pacific-Basin Finance Journal**, Online. [Link](https://doi.org/10.1016/j.pacfin.2024.102423), [PDF](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Lian_2024_Fast_or_slow_Unveiling_the_speed_of_market_leverage_adjustment_in_China.pdf)
+  - Chen, Y., & **Lian, Y.** (2024). Browse and cite Stata manuals easily: The wwwhelp command. The Stata Journal, 24(1), 161–168. [Link](
+  https://file.lianxh.cn/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf), [Google](<https://scholar.google.com/scholar?q=Browse and cite Stata manuals easily: The wwwhelp command>).
+  - Yang, L., Cao, X. J., Wang, Y., **Lian, Y.**, & Guo, Z. (2024). Does metro expansion matter? Metro network enhances metro mode share of commuters living away from stations, but not those near stations. Travel Behaviour and Society, 34, 100664. [Link](https://doi.org/10.1016/j.tbs.2023.100664), [-PDF-](https://file.lianxh.cn/Refs/LianPub/Yang_Lian_2024_TBS.pdf), [Google](<https://scholar.google.com/scholar?q=Does metro expansion matter? Metro network enhances metro mode share of commuters living away from stations, but not those near stations>).
+  - **Lian, Y.**, Liu, C., & Parmeter, C. F. (2023). Two-tier stochastic frontier analysis using Stata. The Stata Journal, 23(1), 197–229. [Link](https://doi.org/10.1177/1536867X231162033), [PDF](https://file.lianxh.cn/Refs/LianPub/Lian-2023-SJ-sftt-Two-tier-SFA.pdf), [Google](<https://scholar.google.com/scholar?q=Two-tier stochastic frontier analysis using Stata>).
+  - Yang, L., Wang, Y., **Lian, Y.**, Dong, X., Liu, J., Liu, Y., & Wu, Z. (2023). Rational planning strategies of urban structure, metro, and car use for reducing transport carbon dioxide emissions in developing cities. Environment, Development and Sustainability, 25(7), 6987–7010. [Link](https://doi.org/10.1007/s10668-022-02344-0), [PDF](https://file.lianxh.cn/Refs/LianPub/Yangliu-LianYujun-2022-Rational-planning-strategies.pdf), [Google](<https://scholar.google.com/scholar?q=Rational planning strategies of urban structure, metro, and car use for reducing transport carbon dioxide emissions in developing cities>).
+  - Yang, L., Wang, Y., **Lian, Y.**, Guo, Z., Liu, Y., Wu, Z., & Zhang, T. (2022). Key Factors, Planning Strategy and Policy for Low-Carbon Transport Development in Developing Cities of China. International Journal of Environmental Research and Public Health, 19(21), 13746. [Link](https://doi.org/10.3390/ijerph192113746), [PDF](https://www.mdpi.com/1660-4601/19/21/13746/pdf?version=1666574075), [Google](<https://scholar.google.com/scholar?q=Key Factors, Planning Strategy and Policy for Low-Carbon Transport Development in Developing Cities of China>).
+  - Peng, Z., **Lian, Y.**, & Forson, J. A. (2020). Peer effects in R&D investment policy: Evidence from China. International Journal of Finance & Economics, 26(3), 4516–4533. Portico. [Link](https://doi.org/10.1002/ijfe.2028), [Google](<https://scholar.google.com/scholar?q=Peer effects in R&D investment policy: Evidence from China. International Journal of Finance & Economics, 26(3), 4516–4533>).
+  - Ye, D., Pan, S., **Lian, Y.**, & Ng, Y.-K. (2020). Culture and Savings: Why Do Asians Save More? The Singapore Economic Review, 66(03), 621–651. [Link](https://doi.org/10.1142/S0217590819500607), [PDF](http://sci-hub.ren/10.1142/S0217590819500607), [Google](<https://scholar.google.com/scholar?q=CULTURE AND SAVINGS: WHY DO ASIANS SAVE MORE>).
+  - Yang, L., Wang, Y., **Lian, Y.**, & Han, S. (2020). Factors and scenario analysis of transport carbon dioxide emissions in rapidly-developing cities. Transportation Research Part D: Transport and Environment, 80, 102252. [Link](https://doi.org/10.1016/j.trd.2020.102252), [PDF](https://file.lianxh.cn/Refs/LianPub/Yang_Lian_2020_Q2-Transportation_Research_Part_D.pdf), [Google](<https://scholar.google.com/scholar?q=Factors and scenario analysis of transport carbon dioxide emissions in rapidly-developing cities>).
+  - Huang, B., **Lian, Y.**, & Li, W. (2016). How far is Chinese left-behind parents’ health left behind? China Economic Review, 37, 15–26. [Link](https://doi.org/10.1016/j.chieco.2015.07.002), [PDF](http://sci-hub.ren/10.1016/j.chieco.2015.07.002), [Google](<https://scholar.google.com/scholar?q=How far is Chinese left-behind parents’ health left behind>).
+  - Ye, D., Ng, Y.-K., & **Lian, Y.** (2015). Culture and Happiness. Social Indicators Research, 123(2), 519–547. [Link](https://doi.org/10.1007/s11205-014-0747-y), [PDF](http://sci-hub.ren/10.1007/s11205-014-0747-y), [Google](<https://scholar.google.com/scholar?q=Culture and Happiness>).
 
-### 2024
+### In Chinese
 
-Dash S\*, **Baliga VB**\*, Lapsansky AB, Wylie DR, and Altshuler DL. 2024.
-[Encoding of global visual motion in the avian pretectum shifts from a bias for
-temporal-to-nasal selectivity to omnidirectional excitation across
-speeds](https://doi.org/10.1523/ENEURO.0301-24.2024). *eNeuro.*
-doi:10.1523/ENEURO.0301-24.2024*\
-    \** Equal contribution
+[more](https://lingnan.sysu.edu.cn/faculty/LianYujun)
 
-Skandalis DS, **Baliga VB**, Goller B, and Altshuler DL. 2024. [The
-spatiotemporal richness of hummingbird wing
-deformations](https://doi.org/10.1242/jeb.246223). *Journal of Experimental
-Biology.* 227, jeb246223. doi:10.1242/jeb.246223
-
-**Baliga VB**, Dakin R, Wylie DR, and Altshuler DL. 2024. [Hummingbirds use
-distinct control strategies for forward and hovering
-flight](https://doi.org/10.1098/rspb.2023.2155). *Proceedings of the Royal
-Society B: Biological Sciences.* 291, 20232155. doi:10.1098/rspb.2023.2155
-
-### 2022
-
-Smyth G\*, **Baliga VB**\*, Gaede AH\*, Wylie DR, and Altshuler DL. 2022.
-[Specializations in optic flow encoding in the pretectum of hummingbirds and
-zebra finches](https://doi.org/10.1016/j.cub.2022.04.076). *Current Biology.*
-32, 1-8. doi:10.1016/j.cub.2022.04.076*\
-    \** Equal contribution
-
-Harvey CA, **Baliga VB**, Wong JCM, Altshuler DL, and Inman DJ. 2022. [Birds can
-transition between stable and unstable states via wing
-morphing](https://doi.org/10.1038/s41586-022-04477-8). *Nature.* 603, 648--653.
-doi:10.1038/s41586-022-04477-8
-
-Gaede AH\*, **Baliga VB**\*, Smyth G, Gutiérrez-Ibáñez C, Altshuler DL, and
-Wylie DR. 2022. [Response Properties of Optic Flow Neurons in the Accessory
-Optic System of Hummingbirds vs. Zebra Finches and
-Pigeons](https://doi.org/10.1152/jn.00437.2021). *Journal of Neurophysiology.*
-127, 130-144. doi:10.1152/jn.00437.2021\
-    \*\* Equal contribution
-
-### 2021
-
-Leal PBC, Cabral-Seanez M, **Baliga VB**, Altshuler DL, and Hartl DJ. 2021.
-[Phase transformation-driven artificial muscle mimics the multifunctionality of
-avian wing muscle](https://doi.org/10.1098/rsif.2020.1042). *Journal of the
-Royal Society Interface.* 18, 20201042. doi:10.1098/rsif.2020.1042
-
-Harvey C, **Baliga VB**, Goates CD, Hunsaker D, and Inman DJ. 2021.
-[Gull-inspired joint-driven wing morphing allows adaptive longitudinal flight
-control](https://doi.org/10.1098/rsif.2021.0132). *Journal of the Royal Society
-Interface.* 18, 20210132. doi:10.1098/rsif.2021.0132
-
-### 2020
-
-Bahlman JW\*, **Baliga VB**\*, and Altshuler DL. 2020. [Flight muscle power
-increases with strain amplitude and decreases with cycle frequency in zebra
-finches (*Taeniopygia guttata*)](https://dx.doi.org/10.1242/jeb.225839).
-*Journal of Experimental Biology.* 223*,* jeb225839. doi:10.1242/jeb.225839*\
-    \** Equal contribution
-
-### 2019
-
-**Baliga VB**, Szabo I, and Altshuler DL. 2019. [Range of motion in the avian
-wing is strongly associated with flight behavior and body
-mass](https://doi.org/10.1126/sciadv.aaw6670). *Science Advances.* 5, eaaw6670.
-doi:10.1126/sciadv.aaw6670
-
-Damsgaard C, **Baliga VB**, Bates E, Burggren W, McKenzie DJ, Taylor E, and
-Wright PA. 2019. [Evolutionary and Cardio-Respiratory Physiology of
-Air-breathing and Amphibious Fishes](https://doi.org/10.1111/apha.13406). *Acta
-Physiologica.* 228, e13406. doi:10.1111/apha.13406
-
-**Baliga VB** and Mehta RS. 2019. [Morphology, ecology, and biogeography of
-independent origins of cleaning behavior around the
-world.](https://doi.org/10.1093/icb/icz030) *Integrative and Comparative
-Biology*. 59, 625--637. doi:10.1093/icb/icz030
-
-Harvey C, **Baliga VB**, Lavoie P, and Altshuler DL. 2019. [Wing morphing allows
-gulls to modulate static pitch stability during
-gliding.](http://dx.doi.org/10.1098/rsif.2018.0641) *Journal of the Royal
-Society Interface*. 16, 20180641. doi:10.1098/rsif.2018.0641
-
-### 2018
-
-**Baliga VB** and Mehta RS. 2018. [Phylo-allometric analyses showcase the
-interplay between life history patterns and phenotypic convergence in cleaner
-wrasses](https://doi.org/10.1086/697047). *American Naturalist.* 191,
-E129--E143. doi:10.1086/697047
-
-### 2017
-
-**Baliga VB**, Bernstein ZJ\*, Sundaram S\*, and Mehta RS. 2017. [Labrid cleaner
-fishes show kinematic convergence as juveniles despite variation in
-morphology](http://dx.doi.org/10.1242/jeb.153783). *Journal of Experimental
-Biology*. 220, 2787--2797. doi:10.1242/jeb.153783\
-   \* High school intern, [UCSC-SIP](http://ucsc-sip.org/)
-
-Diluzio AR\*, **Baliga VB**, Higgins BA, and Mehta RS. 2017. [Effects of prey
-characteristics on the feeding behaviors of an apex marine predator, the
-California moray (*Gymnothorax
-mordax*).](http://dx.doi.org/10.1016/j.zool.2017.03.002) *Zoology*. 122, 80--89.
-doi:10.1016/j.zool.2017.03.002\
-   \* Undergraduate student
-
-Law CJ, **Baliga VB**, Tinker MT, and Mehta RS. 2017. [Asynchrony in
-craniomandibular development and growth in *Enhydra lutris nereis* (Carnivora:
-Mustelidae): are southern sea otters born to
-bite?](http://dx.doi.org/10.1093/biolinnean/blw050) *Biological Journal of the
-Linnean Society.* 121:3, 420--438. doi:10.1093/biolinnean/blw050
-
-### 2016
-
-**Baliga VB** and Mehta RS. 2016. [Ontogenetic Allometry in Shape and
-Flexibility Underlies Life History Patterns of Labrid Cleaning
-Behavior](http://dx.doi.org/10.1093/icb/icw028). *Integrative and Comparative
-Biology*. 56:3, 416--427. doi:10.1093/icb/icw028
-
-**Baliga VB** and Law CJ. 2016. [Cleaners among wrasses: Phylogenetics and
-evolutionary patterns of cleaning behavior within
-Labridae](http://dx.doi.org/10.1016/j.ympev.2015.09.006). *Molecular
-Phylogenetics and Evolution.* 94A, 424--435. doi:10.1016/j.ympev.2015.09.006
-
-Bryce CM, **Baliga VB**, De Nesnera KL, Fiack D, Goetz K, Tarjan LM, Wade C,
-Yovovich V, Baumgart S\*, Bard DG, Ash D, Parker IM, and Gilbert GS. 2016*.*
-[Exploring Models in the Biology
-Classroom](http://dx.doi.org/10.1525/abt.2016.78.1.35). *The American Biology
-Teacher.* 78:1, 35--42. doi:10.1525/abt.2016.78.1.35\
-   \* High school teacher
-
-### 2015
-
-**Baliga VB** and Mehta RS. 2015. [Linking Cranial Morphology to Prey Capture
-Kinematics in Three Cleaner Wrasses: *Labroides dimidiatus*, *Larabicus
-quadrilineatus*, and *Thalassoma
-lutescens*](http://dx.doi.org/10.1002/jmor.20425). *Journal of Morphology*. 276,
-1377--91. doi:10.1002/jmor.20425
-
-### 2014
-
-**Baliga VB** and Mehta RS. 2014. [Scaling patterns inform ontogenetic
-transitions away from cleaning in *Thalassoma*
-wrasses](http://dx.doi.org/10.1242/jeb.107680). *Journal of Experimental
-Biology*. 217, 3597--3606. doi:10.1242/jeb.107680
-
---------------------------------------------------------------------------------
-
-## Peer-reviewed software publications
-
-### 2021
-
-**Baliga VB**. 2021. gaussplotR: [Fit, predict, and plot 2D-Gaussians in
-R.](https://doi.org/10.21105/joss.03074) *Journal of Open Source Software*.
-6:60, 3074. doi: 10.21105/joss.03074
-
-### 2019
-
-**Baliga VB** and Senthivasan S. 2019. [workloopR: Analysis of work loops and
-other data from muscle physiology experiments in
-R](https://doi.org/10.21105/joss.01856). *Journal of Open Source Software.*
-4:43, 1856. doi: 10.21105/joss.01856
-
---------------------------------------------------------------------------------
-
-## Conference papers
-
-Full-length papers submitted in concert with conference presentations; not
-peer-reviewed
-
-### 2020
-
-Harvey C, **Baliga VB**, and Inman DJ. 2020. [Control force required to morph
-the elbow and wrist in gulls](https://dx.doi.org/10.2514/6.2020-1037). American
-Institute of Aeronautics and Astronautics Scitech 2020 Forum. Held January 6 -
-10, 2020 in Orlando, FL. doi:10.2514/6.2020-1037
-
-### 2019
-
-Harvey C, **Baliga VB**, Altshuler DL, and Inman DJ. 2019. [Pitch Control
-Effectiveness of the Avian Elbow and Wrist via a Numerical Lifting Line
-Analysis](https://doi.org/10.2514/6.2019-0853). American Institute of
-Aeronautics and Astronautics Scitech 2019 Forum (AIAA 2019-0853). Held January
-7 - 11, 2019 in San Diego, CA. doi:10.2514/6.2019-0853
-
---------------------------------------------------------------------------------
-
-## Inquiry-based teaching modules
-
-Available at the [SCWIBLES Modules
-page](http://scwibles.ucsc.edu/SCWIBLESModules.html)
-
-### 2014
-
-**Baliga VB**, and Yew B. 2014. Demystifying Dimensions: A mini-lesson on
-dimensional analysis. Product of GK-12 SCWIBLES, NSF DGE-0947923\
-\
-**Baliga VB**, Yew B, Herradora R, Callahan W. 2014. A Fact of Matter: Exploring
-trends across the Periodic Table. Product of GK-12 SCWIBLES, NSF DGE-0947923
-
-de Nesnera K, **Baliga VB**, et al. 2014. Presentation Skills: A video designed
-for science fair participants in high school. Product of GK--12 SCWIBLES, NSF
-DGE-0947923
-
-**Baliga VB**, and Baumgart S. 2014. A Matter of Human Proportions: Are you
-Vitruvian? Product of GK-12 SCWIBLES, NSF DGE-0947923
-
-### 2013
-
-**Baliga VB**, and Baumgart S. 2013. Hold Your Breath: What triggers the dive
-response in mammals? Product of GK-12 SCWIBLES, NSF DGE-0947923
-
---------------------------------------------------------------------------------
+  - **连玉君**, 李鑫. 完全刑责年龄法律对未成年人犯罪行为的威慑作用研究. **统计研究**, 2024, 已接受. [工作论文版](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/%E8%BF%9E%E7%8E%89%E5%90%9B-%E6%9D%8E%E9%91%AB-2024-%E7%BB%9F%E8%AE%A1%E7%A0%94%E7%A9%B6-RDD-%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA.pdf)
+  - 程晓刚, 宋常, **连玉君**, 毕功兵. 创新成功与企业供应链融资[J]. **中国软科学**, 2024(2): 113-122. 
+  - **连玉君**, 刘畅. 精准问询：来自年报问询和控股股东股权质押的证据, **山西财经大学学报**. 2023, 45(1): 99-114.DOI:10.13781/j.cnki.1007-9556.2023.01.008.
+  - Li Zengfu, Chen Junjie, **Lian Yujun**(*), Li Mingjie. Economic Policy Uncertainty and Corporate Short-term Debt Usage, **Management World** (管理世界), 2022 (1): 77-89.  
+  - **Lian Yujun**, Li Xin. Improvement on Placebo Tests in Synthetic Control Method: Statistical Inference Based on Quasi-Standardized Transformation, **Statistical Research** (统计研究), 2022, 39(8): 115-128. [-Link-](https://tjyj.stats.gov.cn/CN/Y2022/V39/I8/115) 
+  - Li Zengfu, Huang Jiahui, **Lian Yujun**(*), Non-State Capital Participation and Technological Innovation in State-Owned Enterprises, **Statistical Research** (统计研究), 2021(1): 119-131. 
+  - **Lian Yujun**, Peng Zhen, Cai Jing, Yang Haisheng. Research on the Homogeneous Effect of Capital Structure during Economic Cycles, **Accounting Research** (会计研究), 2020, (11): 85-97. 
+  - Yang Haisheng, Liu Jianhua, **Lian Yujun**, Jiang Yingzhen, *Research on Peer Effects in Corporate Investment Decision-making: Imitation and Learning*, **China Economics Quarterly** (经济学季刊), 2020, 19(4): 1375-1400.
+  - Li Zengfu, Tang Xudong, **Lian Yujun**(*), *The Puzzle of Deviation in Corporate Social Responsibility of Chinese Private Enterprises*, **Management World** (管理世界), 2016 (9): 136-148.

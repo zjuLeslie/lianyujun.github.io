@@ -10,17 +10,17 @@ editor:
 execute:
   freeze: auto
 
-description-meta: "Personal site for Vikram B. Baliga"
+description-meta: "Personal site for Yujun Lian"
 
 website: 
-  title: "vbaliga.github.io"
-  site-url: https://vbaliga.github.io
-  repo-url: https://github.com/vbaliga/vbaliga.github.io
-  image: "/images/vbaliga.github.io - social preview.png"
+  title: "lianyujun.github.io"
+  site-url: https://lianyujun.github.io
+  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  image: "/images/lianyujun_2025.jpg"
   open-graph:
-    image: "/images/vbaliga.github.io - social preview.png"
+    image: "/images/lianyujun_2025.jpg"
     locale: en_US
-  favicon: "/images/vb32.png"
+  favicon: "/images/site-logo.png"
   navbar:
     pinned: true
     background: "#EE6A24"
@@ -29,23 +29,18 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Data, software & code"
-        href: data-software-code.qmd
-      - text: "Press"
-        href: press.qmd
-      - text: "Tidbits"
+      - text: "Codes"
+        href: codes.qmd
+      - text: "Blogs"
         href: blog.qmd
   search:
     location: navbar
     type: overlay
   page-footer:
     left: |
-      Content {{< fa brands creative-commons >}} {{< var site.copyright_year >}} by [{{< var author.name_no_title >}}](mailto:{{< var author.email >}}). All images by V.B.B. unless otherwise noted. <br>
-      All content licensed under a {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
-      [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license
+      [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
-      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      Made with [Quarto](https://quarto.org/)<br>
 
 format:
   html:
