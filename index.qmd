@@ -7,25 +7,27 @@ editor: source
 ::: {.grid .course-details .course-details-smaller}
 ::: {.g-col-6 .g-col-md-3}
 -   {{< fa solid user >}}   [Dept.
-    page](https://www.zoology.ubc.ca/person/vikram-baliga)
--   {{< fa university >}}   [UBC Zoology](https://zoology.ubc.ca/)
--   {{< fa envelope >}}   [Email](mailto:vikram.baliga@ubc.ca)
--   {{< fa brands github >}}   [\@vbaliga](https://github.com/vbaliga)
+    page](https://lingnan.sysu.edu.cn/faculty/LianYujun)
+-   {{< fa university >}}   [Sun Yat-sen Univ](https://www.sysu.edu.cn/)
+-   {{< fa envelope >}}   [Email](mailto:arlionn@163.com)
+-   {{< fa brands github >}}   [\@lianyujun](https://github.com/lianyujun)
 :::
 
 ::: {.g-col-6 .g-col-md-3}
 -   {{< fa book >}}   [Google
-    Scholar](https://scholar.google.com/citations?user=sXz0JqQAAAAJ&hl=en)
--   {{< fa fingerprint >}}   [ORCID](http://orcid.org/0000-0002-9367-8974)
+    Scholar](https://scholar.google.com/citations?user=tlkDP2AAAAAJ)
+-   {{< fa fingerprint >}}   [ORCID](https://orcid.org/0000-0002-2011-7535)
 -   {{< fa brands researchgate >}}  
-    [ResearchGate](https://www.researchgate.net/profile/Vikram_Baliga)
--   {{< fa solid copy >}}  
-    [Publons](http://www.researcherid.com/rid/H-1546-2013)
+    [ResearchGate](https://www.researchgate.net/profile/Yujun-Lian)
 :::
 :::
 
 ![](images/lianyujun_2025.jpg){fig-alt="Yujun Lian" style="float:left;"
 width="200"}
+
+
+<br>
+
 
 ## Contact
 
@@ -52,12 +54,10 @@ He is also the founder of the website <https://www.lianxh.cn>, one of the larges
 
 
 ## Background
+
 - Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
 - Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
 - 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
 - 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
 - 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
 - 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
-
-
---------------------------------------------------------------------------------
