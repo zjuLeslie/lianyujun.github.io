@@ -59,3 +59,6 @@ format:
           </style>
     include-before-body: 
       - file: ga4_tag.html
+
+publish:
+  method: gh-pages
