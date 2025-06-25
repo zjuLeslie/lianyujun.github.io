@@ -8,7 +8,6 @@ editor: source
 ::: {.g-col-6 .g-col-md-3}
 -   {{< fa solid user >}}   [Dept.
     page](https://lingnan.sysu.edu.cn/faculty/LianYujun)
--   {{< fa university >}}   [Sun Yat-sen Univ](https://www.sysu.edu.cn/)
 -   {{< fa envelope >}}   [Email](mailto:arlionn@163.com)
 -   {{< fa brands github >}}   [\@lianyujun](https://github.com/lianyujun)
 :::
