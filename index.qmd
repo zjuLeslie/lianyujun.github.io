@@ -1,47 +1,42 @@
 ---
 title: "Yujun Lian"
-subtitle: "Associate Professor, Sun Yat-sen University"
-editor: source
+image: images/lianyujun_2025.png
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: arlionn@163.com
+      href: mailto:arlionn@163.com
+    - icon: github
+      text: arlionn
+      href: https://github.com/arlionn
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+    - icon: fingerprint
+      text: ORCID
+      href: https://orcid.org/0000-0002-2011-7535
+    - icon: brands zhihu
+      text: 知乎
+      href: https://www.zhihu.com/people/arlionn/
+    - icon: brands weibo
+      text: 微博
+      href: https://weibo.com/arlionn
+    - icon: brands xing
+      text: 小红书
+      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
+    - icon: solid user
+      text: 工作主页
+      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
+    - icon: brands home
+      text: 连享会
+      href: https://www.lianxh.cn
 ---
 
-::: {.grid .course-details .course-details-smaller}
-::: {.g-col-6 .g-col-md-3}
--   {{< fa solid user >}}   [Dept.
-    page](https://lingnan.sysu.edu.cn/faculty/LianYujun)
--   {{< fa envelope >}}   [Email](mailto:arlionn@163.com)
--   {{< fa brands github >}}   [\@lianyujun](https://github.com/lianyujun)
-:::
-
-::: {.g-col-6 .g-col-md-3}
--   {{< fa book >}}   [Google
-    Scholar](https://scholar.google.com/citations?user=tlkDP2AAAAAJ)
--   {{< fa fingerprint >}}   [ORCID](https://orcid.org/0000-0002-2011-7535)
--   {{< fa brands researchgate >}}  
-    [ResearchGate](https://www.researchgate.net/profile/Yujun-Lian)
-:::
-:::
-
-![](images/lianyujun_2025.jpg){fig-alt="Yujun Lian" style="float:left;"
-width="200"}
-
-
-<br>
-
-
-## Contact
-
-- **Email**: [arlionn@163.com](mailto:arlionn@163.com) (prefer); [lianyj@mail.sysu.edu.cn](mailto:lianyj@mail.sysu.edu.cn)
-- **Tel**: 86-20-84110648
-- **Office**: Lingnan Administrative centre 412
-- **Address**: Lingnan College, Sun Yat-sen University, No. 135, Xingang West Road, Haizhu District, Guangzhou, Guangdong Province (Postcode: 510275)
-- **Personal Webpape**: <https://lingnan.sysu.edu.cn/en/faculty/LianYujun>,  [中文](https://lingnan.sysu.edu.cn/faculty/LianYujun)
-- **Blog**：[https://www.lianxh.cn](https://www.lianxh.cn/)
-- **ORCID**: <https://orcid.org/0000-0002-2011-7535> 
-- **ResearchGate:** <https://www.researchgate.net/profile/Yujun-Lian>
-
-
-## Welcome
-
+::: {#hero-heading}
 
 Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
 
@@ -60,3 +55,5 @@ He is also the founder of the website <https://www.lianxh.cn>, one of the larges
 - 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
 - 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
 - 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+
+:::

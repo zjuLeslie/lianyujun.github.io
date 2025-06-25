@@ -1,9 +1,0 @@
----
-layout: none
-permalink: .well-known/security.txt
----
-
-Contact: https://github.com/lianyujun/lianyujun.github.io/issues
-Expires: 2027-06-01T07:00:00.000Z
-Preferred-Languages: en
-Canonical: https://lianyujun.github.io/.well-known/security.txt

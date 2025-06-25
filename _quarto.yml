@@ -1,62 +1,44 @@
 project:
   type: website
   output-dir: docs
-
-editor: 
-  mode: source
-  markdown:
-    wrap: 80
-    canonical: true
-    
-execute:
-  freeze: auto
-
-description-meta: "Personal site for Yujun Lian"
-
-website: 
-  title: "lianyujun.github.io"
+  
+website:
+  page-navigation: true
+  title: "Yujun Lian"
   site-url: https://lianyujun.github.io
+  favicon: images/site-logo.png
   repo-url: https://github.com/lianyujun/lianyujun.github.io
-  image: "/images/lianyujun_2025.jpg"
-  open-graph:
-    image: "/images/lianyujun_2025_full.jpg"
-    locale: en_US
-  favicon: "/images/site-logo.png"
-  navbar:
-    pinned: true
-    background: "#EE6A24"
-    right:
-      - text: "Home"
-        href: index.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "Blogs"
-        href: blog.qmd
-  search:
-    location: navbar
-    type: overlay
+  repo-actions: [edit, issue]
+  
   page-footer:
     left: |
       [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
+    
+  navbar: 
+    background: "#A9CCE3"
+    search: true
+    right: 
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Books"
+        href: books.qmd
+      - text: "Blogs"
+        href: blog.qmd
+      - text: "Codes"
+        href: codes.qmd
+      - text: "中文"
+        href: Chinese.qmd
+        
+      #- text: "CV"
+      #  href: misc/info/CV-CZ-2407.pdf
 
 format:
   html:
-    theme:
-      - litera
-      - html/custom.scss
-    toc: true
-    highlight-style: monokai
-    code-overflow: wrap
-    include-in-header: 
-      - file: head_tag.html
-      - text: |
-          <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-          <style>
-            body { font-family: 'Poppins', sans-serif; }
-          </style>
-    include-before-body: 
-      - file: ga4_tag.html
+    theme: styles.scss
+    toc: true         # 启用目录
+    toc-position: right  # 将目录放置在页面的右侧
+    toc-depth: 3      # 设置目录的深度，数字越大，目录越详细
