@@ -18,7 +18,7 @@ website:
   repo-url: https://github.com/lianyujun/lianyujun.github.io
   image: "/images/lianyujun_2025.jpg"
   open-graph:
-    image: "/images/lianyujun_2025.jpg"
+    image: "/images/lianyujun_2025_full.jpg"
     locale: en_US
   favicon: "/images/site-logo.png"
   navbar:

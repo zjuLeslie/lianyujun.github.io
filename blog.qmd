@@ -19,6 +19,7 @@ editor:
   - 连玉君, 2024, [从 Stata 到 R：如何使用 tag() 和 if_else() 标记分组中的首个观测](https://www.lianxh.cn/details/1495.html).  2024/11/06
 
 
+
 ## Hot 10
 
   - 连玉君, 2020, [Stata: 如何检验分组回归后的组间系数差异？](https://www.lianxh.cn/details/19.html), 连享会 No.19.  Hits: 107757
