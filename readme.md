@@ -9,7 +9,11 @@
 
 - 连小白, 2025, [50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程](https://www.lianxh.cn/details/1644.html).
 
-你可以点击本页右上方的 ⭐**Star** 按钮来收藏本仓库，方便日后查阅；也可以点击 **Use this template** 按钮来快速 Fork 本仓库。
+本仓库的使用方法：
+
+- 你可以点击本页右上方的 ⭐**Star** 按钮来收藏本仓库，方便日后查阅；
+- 也可以点击 **Use this template** 按钮来快速 Fork 本仓库。
+- 你制作个人主页期间有任何问题，可以在 [Discussions](https://github.com/lianyujun/lianyujun.github.io/discussions) 提问和讨论。
 
 --- 
 
