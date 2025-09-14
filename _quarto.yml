@@ -4,10 +4,10 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Chunbo Pang"
+  site-url: https://bosspang.github.io/lianyujun.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/bosspang/lianyujun.github.io
   repo-actions: [edit, issue]
   
   page-footer:

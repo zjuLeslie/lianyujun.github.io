@@ -1,6 +1,6 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "庞春波"
+image: images/bio-photo.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,55 +8,69 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
+      text: 22060706@zju.edu.cn
+      href: mailto:22060706@zju.edu.cn
+    - icon: phone
+      text: "18912819015"
+      href: "tel:18912819015"
     - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
-    - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
-    - icon: fingerprint
-      text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
+      text: GitHub
+      href: https://github.com/bosspang
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      href: CV.pdf
 ---
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+### 自我评价
+研究生期间参与多项横向纵向课题，导师高翔院士，校招进入一线互联网大厂阿里巴巴从事软件开发工作，曾在阿里云从事算法研究实习， 热爱编程且具备开发和算法工程能力；本科、硕士共发表SCI、核心论文5篇，公开发明专利3项，授权实用新型2项，具有一定钻研能力。
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+### 教育经历
+- **浙江大学** - 能源动力 硕士 能源工程学院 (2020.09 - 2023.06)
+  - 保送研究生、 导师高翔院士
+- **江苏大学** - 能源与动力工程 本科 能源与动力工程学院 (2016.09 - 2020.07)
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
+### 专业技能
+- **Agent开发**: 掌握B端业务Agent开发范式，如Muti-Agent架构、MCP、A2A等协议，了解LangGraph等框架；
+- **算法开发**: 了解LSTM、Transform等模型原理，能够使用Pytorch解决时间序列预测问题；
+- **Java**: 熟悉Java核心技术、理解JVM内存模型、垃圾回收机制及性能调优，掌握如工厂、代理、策略、装饰器等Java设计模式；
+- **数据库**: 熟悉MySQL索引、拥有慢查询优化、电商系统分库分表经验，了解CAP原理及MySQL与缓存一致性保障；
+- **中间件**: 熟练使用消息队列 (RocketMQ)、缓存、定时任务等中间件，了解openSearch分布式搜索引擎；
+- **微服务**: 熟悉Spring Cloud Alibaba生态（如HSF, Sentinel），具备微服务场景下服务治理（限流、熔断、降级）的实战经验。
 
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
+### 科研经历
+- **燃煤电厂强制氧化系统故障预警算法算法开发工程师** (2021.06 - 2022.02)
+  - 项目背景：为保证电厂清洁环保运行，脱硫系统长期处于高负荷、恶劣工况，导致故障频发，影响脱硫效率、损害电厂效益。
+  - 解决方法：基于Keras深度学习框架，提出一种结合长短时记忆网络（LSTM）和注意力机制（Attention）的时间序列预测模型，对预测值和真实值的残差序列进行序贯概率比（SPRT）分析，从而实现在线动态故障预警。
+  - 项目成果：预测模型精度：R2=0.982，RMSE=0.309；可以提前数十小时的故障预警。该成果发表于环境工程领域一区SCI《Process Safety and Environmental Protection》上，IF: 7.926/Q1。
+- **基于智能物联(AIOT)的高频声振信号监测终端硬件测试及软件开发** (2020.11 - 2022.08)
+  - 项目背景：传统火电、风电已有的DCS、SCADA系统，所保存的低频数据无法满足风机、泵等关键设备的监测诊断需求。
+  - 解决方法：设计采集方案，并基于高频振动/声波传感器、高频采集卡、边缘计算机等搭建远程信号采集终端，实现泵/风机的高频振动/声波信号的定时采集和传输，并在网页端展示实时信号及快速傅立叶变换等信息，已安装在浙江嘉兴某50MW热电厂脱硫系统现场。
 
+### 科研成果
+- "An integrated LSTM-AM and SPRT method for fault early detection of forced-oxidation system in wet flue gas desulfurization" (2022). 《Process Safety and Environmental Protection》. (第一作者，SCI检索 一区，时序诊断算法) ;
+- “气泡在横流中的几何及动力学特性” (2020). 《排灌机械工程学报》. （第一作者，EI检索) ;
+- 共发表SCI、核心论文5篇，公开发明专利3项，授权实用新型2项。
 
-## Background
+### 工作经历
+- **阿里集团 - 淘天集团 - 自营技术 - 商品技术 - 商家技术：后端开发工程师** (2023.07 - 至今)
+  - **自营技术营销招商系统**
+    - 背景：营销招商是猫超业务目标达成的核心驱动力。我负责招商系统的业务开发、系统迁移及研发效能提升工作。该系统整合营销、风控、预算、结算、用户增长、阿里妈妈等底层能力，为商品运营、营销活动、价格托管等上游业务提供40+种优惠玩法的提报支持。
+    - 职责描述：
+      - 招商模型与架构重构：运用领域驱动设计（DDD）解构招商核心原子业务（目标选品、活动创建、商品提报、活动跟踪），识别并构建核心领域模型（计划推荐品、招商计划、招商报名记录），通过能力组合灵活支持业务多元化定制，显著降低各自营行业定制成本；基于高度抽象的模型定义标准化招商协议，使新玩法接入效率提升55%，节省2名研发人力。
+      - 招商推荐引擎优化： 基于OpenSearch构建可报商品推荐引擎，建设商品宽表并通过规则前置验证与动态索引更新实现无效商品实时过滤，支撑万级商品毫秒级精准检索（响应<200ms），商家商品提报成功率提升30%+。
+      - 事件驱动与高可用保障： 定义招商领域事件重构玩法投递流程，通过监听外域状态变更MQ实现状态实时dump从而实现招商状态机同外域解耦，并利用MQ重试机制保障活动投放成功率，显著提升系统高可用性，使上下游工单量降低80%+。
+      - 招商场域建设： 主导支持淘宝秒杀、猫超卡等20+核心公私域招商场域的建设与升级，保障大促及日常活动高效落地；如升级改价回滚链路，实现营销异步返回改价结果，通过幂等性设计+定时校对机制确保跨系统数据强一致性。
+  - **商品运营AI工作台**
+    - 背景：当前小二渠道运营过程中人工依赖度过大，触达流程长。拟通过AI Agent基于多维度商品运营目标驱动的智能规划、自动化执行&反馈能力，重构商品运营流程，减少内部重复机械式的运营协同，突破人力执行天花板，大幅提高运营效率。
+    - 职责描述：
+      - 渠道盘货：设计并开发基于Muti-Agent驱动的智能盘货与任务分发引擎。基于GMV目标、商品特性及渠道反馈，利用大模型进行多轮决策，自动生成并下发精准盘货和采购邀约任务。通过智能准入规则（前置+互斥）过滤无效报名，预计提升盘货效率70%+；
+      - 巡检&代办：基于库存、限购、0动销等规则动态巡检，结合大模型进行风险诊断与归因分析，自动生成代办事项与风险预警。目标：通过AI诊断辅助决策，产品化规则能力提升盯盘准确性，预计可降低小二精力40%进而削减外包成本。
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+### 实习经历
+- **阿里集团 - 阿里云智能 - 产品解决方案与大网站事业部：算法研究型实习生** (2022.08 - 2022.11)
+  - 同清华大学合作，研究了当前最具潜力的CO2盐水层封存方式，基于卷积神经网络U-FNO，构建了适用于动态CO2注入情景下的压力和饱和度预测代理模型，MSE分别为2.8x10-7和1x10-4，预测速度相较传统数值模拟方法有1000倍左右的提升；
+  - 整合基于深度学习的代理模型和基于强化学习的优化模型代码，依托阿里云的“双碳”管理服务产品能耗宝平台完成模型部署。
 
 :::
