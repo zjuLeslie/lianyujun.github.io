@@ -1,0 +1,10 @@
+---
+title: "Skills"
+---
+
+- **Agent development**: master the development paradigm of B- side business Agent, such as Muti-Agent architecture, MCP, A2A and other protocols, and understand LangGraph and other frameworks;
+- **Algorithm Development**: understand the principles of LSTM, Transform and other models, and be able to use Pytorch to solve time series prediction problems;
+- **Java**: familiar with Java core technology, understand JVM memory model, garbage collection mechanism and performance tuning, master Java design patterns such as factory, agent, strategy, decorator, etc;
+- **Database**: familiar with MySQL index, have experience in slow query optimization, sub-database and sub-table of e-commerce system, understand CAP principle and MySQL and cache consistency guarantee;
+- **Middleware**: familiar with the use of message queue (RocketMQ), cache, timing tasks and other middleware, understand the openSearch distributed search engine;
+- **Microservices**: familiar with Spring Cloud Alibaba ecology (such as HSF and Sentinel), and have practical experience in service governance (current limiting, fusing, and demotion) in micro-service scenarios.

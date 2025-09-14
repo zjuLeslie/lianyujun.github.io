@@ -22,14 +22,16 @@ website:
     right: 
       - text: "Home"
         href: index.qmd
+      - text: "Work"
+        href: work_experience.qmd
+      - text: "Internship"
+        href: internship_experience.qmd
+      - text: "Scientific Research"
+        href: scientific_research_experience.qmd
       - text: "Publications"
-        href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
+        href: scientific_research_achievements.qmd
+      - text: "Skills"
+        href: skills.qmd
       - text: "中文"
         href: Chinese.qmd
       - text: "CV"

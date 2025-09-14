@@ -1,0 +1,7 @@
+---
+title: "Scientific Research Achievements"
+---
+
+- "An integrated LSTM-AM and SPRT method for fault early detection of forced-oxidation system in wet flu gas desulfurization" (2022). Process Safety and Environmental Protection (First author, SCI JCR Q1, time series diagnosis algorithm) 
+- "Bubble in the cross-flow of geometric and dynamic characteristics" (2020). "Irrigation and Drainage Mechanical Engineering ". (First author, EI) 
+- A total of published SCI, core papers 5, public invention patents 3, authorized utility model 2

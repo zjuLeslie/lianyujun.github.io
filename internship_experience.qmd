@@ -1,0 +1,7 @@
+---
+title: "Internship Experience"
+---
+
+- **Ali Group-Ali Cloud Intelligence-Product Solutions and Large Website Division:Algorithm research intern** (2022.08 - 2022.11)
+  - With Tsinghua University, the study of the current most potential CO2 brine layer storage method, based on convolutional neural network U-FNO, the construction of a dynamic CO2 injection scenario for the pressure and saturation prediction agent model, MSE were 2.8x 10-7 and 1x 10-4, the prediction speed compared to the traditional numerical simulation method has about 1000 times the improvement;
+  - Integrate deep learning-based proxy model and reinforcement learning-based optimization model code, and rely on Ali Clound's "double carbon" management service product energy consumption treasure platform to complete model deployment.

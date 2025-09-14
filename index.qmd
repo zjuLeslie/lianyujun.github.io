@@ -1,6 +1,6 @@
 ---
 title: "庞春波"
-image: images/bio-photo.jpg
+image: images/1.png
 about:
   id: hero-heading
   template: trestles
@@ -13,12 +13,9 @@ about:
     - icon: phone
       text: "18912819015"
       href: "tel:18912819015"
-    - icon: github
-      text: GitHub
-      href: https://github.com/bosspang
     - icon: 📝
       text: CV
-      href: CV.pdf
+      href: PhD_Application_Chunbo_Pang.pdf
 ---
 
 ::: {#hero-heading}

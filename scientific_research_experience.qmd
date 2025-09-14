@@ -1,0 +1,11 @@
+---
+title: "Scientific Research Experience"
+---
+
+- **High frequency acoustic vibration signal monitoring terminal based on intelligent thingsHardware and software development** (2020.11 - 2022.08)
+  - Project background: The existing DCS and SCADA systems of traditional thermal power and wind power cannot meet the monitoring and diagnosis requirements of key equipment such as fans and pumps.
+  - Solution: design the acquisition scheme, and build a remote signal acquisition terminal based on high frequency vibration/acoustic wave sensor, high frequency acquisition card, edge computer, etc. to realize the timing acquisition and transmission of high frequency vibration/acoustic wave signal of pump/fan, and display real-time signal and fast Fourier transform and other information on the web page, which has been installed on the desulfurization system site of a 50MW thermal power plant in Jiaxing, Zhejiang Province.
+- **Fault early warning algorithm for forced oxidation system in coal-fired power plantAlgorithm Development Engineer** (2021.06 - 2022.02)
+  - Project background: In order to ensure the clean and environmentally friendly operation of the power plant, the desulfurization system has been under high load and harsh working conditions for a long time, resulting in frequent failures, affecting the efficiency of desulfurization and damaging the efficiency of the power plant.
+  - Solution: Based on the Keras deep learning framework, a time series prediction model combining long-short-term memory network (LSTM) and attention mechanism (Attention) is proposed, and the residual sequence of the predicted value and the real value is analyzed by sequential probability ratio (SPRT), so as to realize the online dynamic fault warning.
+  - Project results: prediction model accuracy: R2 = 0.982,RMSE = 0.309; can be tens of hours in advance of the fault warning. The results were published in SCI "Process Safety and Environmental Protection" in the field of environmental engineering, IF: 7.926/Q1.
