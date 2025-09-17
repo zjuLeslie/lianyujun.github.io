@@ -13,9 +13,6 @@ about:
     - icon: phone
       text: "18912819015"
       href: "tel:18912819015"
-    - icon: 📝
-      text: CV
-      href: cv.pdf
 ---
 
 ::: {#hero-heading}
