@@ -15,7 +15,7 @@ about:
       href: "tel:18912819015"
     - icon: 📝
       text: CV
-      href: PhD_Application_Chunbo_Pang.pdf
+      href: cv.pdf
 ---
 
 ::: {#hero-heading}
