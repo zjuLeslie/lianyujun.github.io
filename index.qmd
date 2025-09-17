@@ -1,5 +1,5 @@
 ---
-title: "庞春波"
+title: "Chunbo Pang"
 image: images/1.png
 about:
   id: hero-heading
