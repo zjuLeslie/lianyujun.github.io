@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "Chunbo Pang"
   site-url: https://bosspang.github.io/lianyujun.github.io
-  favicon: images/site-logo.png
+  favicon: images/logo.png
   repo-url: https://github.com/bosspang/lianyujun.github.io
   repo-actions: [edit, issue]
   
